@@ -46,7 +46,7 @@ submission/
    ```
 
 ## Dashboard
-URL Streamlit Cloud: lihat `url.txt` (diisi setelah deployment).
+URL Streamlit Cloud: lihat `https://bike-sharing-dataset-ead24wbk9qtg6azwki5fyc.streamlit.app/` (diisi setelah deployment).
 
 ## Author
 M Fahril Luthfi — Sistem Informasi, Universitas Islam Negeri Sultan Syarif Kasim Riau
